@@ -8,9 +8,11 @@ const Index = () => {
           className="w-full h-auto"
         />
         
+        <div className="absolute bottom-[3%] right-[5%] w-[20%] h-[8%] bg-[#9b9b9b]" />
+        
         <div className="absolute bottom-0 left-0 grid grid-cols-3 w-full">
           <a 
-            href="https://example.com/online-booking"
+            href="https://dikidi.ru/1945661"
             target="_blank"
             rel="noopener noreferrer"
             className="h-[23%] block hover:opacity-80 transition-opacity"
@@ -18,7 +20,7 @@ const Index = () => {
             title="Онлайн-запись"
           />
           <a 
-            href="https://vk.com/altyn_kuzlasheva"
+            href="https://vk.com/club234481155"
             target="_blank"
             rel="noopener noreferrer"
             className="h-[23%] block hover:opacity-80 transition-opacity"
@@ -26,7 +28,7 @@ const Index = () => {
             title="ВКонтакте"
           />
           <a 
-            href="https://example.com/portfolio"
+            href="https://instagram.com/p/DRB7OSLCIsB/?utm_source=qr"
             target="_blank"
             rel="noopener noreferrer"
             className="h-[23%] block hover:opacity-80 transition-opacity"
